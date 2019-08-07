@@ -1,0 +1,72 @@
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\obj\Debug\Exercise_7(Repeater and DataList).csprojAssemblyReference.cache
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\obj\Debug\Exercise_7(Repeater and DataList).csproj.CoreCompileInputs.cache
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\Exercise_7(Repeater and DataList).dll.config
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\Exercise_7(Repeater and DataList).dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\Exercise_7(Repeater and DataList).pdb
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\csc.exe
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\csc.exe.config
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\csc.rsp
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\csi.exe
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\csi.exe.config
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\csi.rsp
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\Microsoft.Managed.Core.targets
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.AppContext.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.Collections.Immutable.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.Console.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.IO.Compression.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.IO.FileSystem.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.IO.Pipes.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.Reflection.Metadata.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.Security.AccessControl.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.Security.Claims.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.Security.Principal.Windows.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.ValueTuple.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.Xml.XmlDocument.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.Xml.XPath.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\vbc.exe
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\vbc.exe.config
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\vbc.rsp
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\VBCSCompiler.exe
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\roslyn\VBCSCompiler.exe.config
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\Antlr3.Runtime.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\AspNet.ScriptManager.bootstrap.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\AspNet.ScriptManager.jQuery.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\Microsoft.ScriptManager.WebForms.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\Microsoft.Web.Infrastructure.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\MySql.Data.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\Newtonsoft.Json.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\System.Web.Optimization.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\WebGrease.dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\System.Web.Optimization.xml
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\Newtonsoft.Json.xml
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\Antlr3.Runtime.pdb
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\obj\Debug\Exercise_7(Repeater and DataList).csproj.CopyComplete
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\obj\Debug\Exercise_7(Repeater and DataList).dll
+D:\dotns\Source Code\Development Area\Pranit\Basic ASP.NET\Exercise_7(Repeater and DataList)\Exercise_7(Repeater and DataList)\obj\Debug\Exercise_7(Repeater and DataList).pdb
